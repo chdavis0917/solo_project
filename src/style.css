@@ -5,3 +5,12 @@ body {
 .container {
   padding: 0 2.5%;
 }
+
+td {
+  height: 100px;
+  width: 100px;
+  background-color: lightskyblue;
+  border: 1px solid black;
+  text-align: center;
+  /* adjust font size later */
+}
