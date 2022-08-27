@@ -6,7 +6,7 @@ body {
   padding: 0 2.5%;
 }
 
-td {
+button {
   height: 100px;
   width: 100px;
   background-color: lightskyblue;
