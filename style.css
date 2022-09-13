@@ -1,0 +1,31 @@
+body {
+  margin: 0;
+}
+
+.parent {
+  margin: 10px;
+  height: 700px;
+  width: 700px;
+  background: lightblue;
+}
+
+.child {
+  margin: 50px;
+  height: 500px;
+  width: 500px;
+  background: lightyellow;
+}
+
+.grandchild {
+  margin: 50px;
+  height: 300px;
+  width: 300px;
+  background: lightpink;
+}
+
+.greatgrandchild {
+  margin: 50px;
+  height: 150px;
+  width: 150px;
+  background: lightgreen;
+}
