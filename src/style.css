@@ -2,15 +2,30 @@ body {
   margin: 0;
 }
 
-.container {
-  padding: 0 2.5%;
+.parent {
+  margin: 10px;
+  height: 700px;
+  width: 700px;
+  background: lightblue;
 }
 
-button {
-  height: 100px;
-  width: 100px;
-  background-color: lightskyblue;
-  border: 1px solid black;
-  text-align: center;
-  /* adjust font size later */
+.child {
+  margin: 50px;
+  height: 500px;
+  width: 500px;
+  background: lightyellow;
+}
+
+.grandchild {
+  margin: 50px;
+  height: 300px;
+  width: 300px;
+  background: lightpink;
+}
+
+.greatgrandchild {
+  margin: 50px;
+  height: 150px;
+  width: 150px;
+  background: lightgreen;
 }
